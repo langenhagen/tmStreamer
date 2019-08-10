@@ -1,5 +1,5 @@
 # tmStreamer
-A tool that can stream contents of the image editor [Texture Maker](http://http://texturemaker.com)
+A tool that can stream contents of the image editor [Texture Maker](http://texturemaker.com)
 into a live render window.
 
 
